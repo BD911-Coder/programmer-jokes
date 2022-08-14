@@ -15,3 +15,5 @@ This is so funny ?
 Yes, it's funny
 
 Yes, it's realy funny!
+
+This is the best way to learn!

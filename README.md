@@ -19,3 +19,5 @@ Yes, it's realy funny!
 This is the best way to learn!
 
 This is the best version control system! 
+
+This is not a joke!
